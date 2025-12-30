@@ -1,11 +1,10 @@
 # Data Scientist | Machine Learning | Analytics
 
 
-## About Me:
+## About Me
 
 I am a Master’s graduate in Big Data Management and Analytics from Griffith College and currently working as a Data Scientist. With a strong background in computer science, I am deeply passionate about data analysis and machine learning, and I bring a solid foundation in programming, statistics, and mathematics to solving complex problems.<br><br>I’ve worked hands-on with data cleaning, analysis, and visualization using tools like Python, R, SQL, and Tableau, and I have experience applying machine learning techniques such as linear regression, decision trees, and neural networks to real-world problems. I’m especially interested in using data to tell meaningful stories and support better decision-making.<br><br>Alongside my technical expertise, I bring strong communication and problem-solving skills, allowing me to work effectively with others, explain complex ideas clearly, and contribute thoughtfully to team-driven projects. I’m always eager to learn, grow, and take on meaningful challenges in data-driven environments.
 
-<br><br>
 ## Skills & Tools
 
 - **Languages:** Python, R, SQL  
@@ -24,4 +23,4 @@ I am a Master’s graduate in Big Data Management and Analytics from Griffith Co
 
 ## Connect With Me
 
-- LinkedIn: [[LinkedIn]](https://linkedin.com/in/alen-george-b922511b5)
+- LinkedIn: https://linkedin.com/in/alen-george-b922511b5
